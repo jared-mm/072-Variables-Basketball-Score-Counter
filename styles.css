@@ -1,0 +1,32 @@
+.main {
+    display: flex;
+}
+
+.main div {
+    flex: 50%;
+    display: flex;
+    flex-direction: column;
+    padding: 25px;
+}
+
+button {
+    padding: 10px;
+    margin: 10px 0;
+}
+
+p {
+    font-size: 45px;
+}
+
+body {
+    background: url("https://live.staticflickr.com/7419/13454598444_53fced4f03_b.jpg");
+}
+
+body {
+    color: red;
+}
+
+body {
+    text-align: center;
+    font-family: 'Sigmar One', cursive;
+}
